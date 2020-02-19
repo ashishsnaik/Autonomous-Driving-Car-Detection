@@ -3,7 +3,7 @@
 Overview
 ---
 
-This project implements the YOLO (You Look Only Once) Algorithm for Object Detection and uses it to detect cars in a video taken by a front-facing camera mounted on a vehicle. 
+This project implements the YOLO (You Only Look Once) Algorithm for Object Detection and uses it to detect cars in a video taken by a front-facing camera mounted on a vehicle. 
 
 The code and implementation details can be found in this [Jypyter Notebook](./Autonomous_driving_application-Car_detection_v1.ipynb).
 
